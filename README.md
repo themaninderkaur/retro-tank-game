@@ -66,9 +66,9 @@ Welcome to the 8-Bit Tank Game! This is a classic 2-player arcade-style game whe
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
-- Inspiration from classic arcade tank games.
-- [Your Name] for development and design.
+- Inspired by 8-bit-tank-game on Github
+- Mr. Nicholas Fishel's AP CSP and Web Development Class
