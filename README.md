@@ -1,8 +1,8 @@
-# 8-Bit Tank Game
+# Retro Tank Game
 
 ## Overview
 
-Welcome to the 8-Bit Tank Game! This is a classic 2-player arcade-style game where each player controls a tank and tries to shoot the other player. The game ends when one player's hearts are depleted.
+Welcome to the Retro Tank Game! This is a classic 2-player arcade-style game where each player controls a tank and tries to shoot the other player. The game ends when one player's hearts are depleted.
 
 ## Controls
 
@@ -56,7 +56,7 @@ Welcome to the 8-Bit Tank Game! This is a classic 2-player arcade-style game whe
 
 - **Simple Controls:** Easy-to-use keyboard controls for both players.
 - **Health System:** Each player has 3 hearts, displayed on the screen.
-- **Classic 8-Bit Graphics:** Nostalgic graphics and sounds for an authentic retro gaming experience.
+- **Classic Retro Graphics:** Nostalgic graphics and sounds for an authentic retro gaming experience.
 
 ## Future Enhancements
 
@@ -70,5 +70,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-- Inspired by 8-bit-tank-game on Github
+- Inspired by Retro-tank-game on Github
 - Mr. Nicholas Fishel's AP CSP and Web Development Class
