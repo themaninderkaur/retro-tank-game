@@ -24,12 +24,12 @@ Welcome to the Retro Tank Game! This is a classic 2-player arcade-style game whe
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/8bit-tank-game.git
+   git clone https://github.com/themaninderkaur/hackathon24.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```sh
-   cd 8bit-tank-game
+   cd hackathon24
    ```
 
 3. **Install Dependencies:**
