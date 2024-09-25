@@ -91,7 +91,7 @@ document.addEventListener("keydown", function(event) {
         oldTop2 = tankSecondTop;
 
     }
-    else if (key === "ControlRight") {
+    else if (key === "ControlRight" || key === "Enter") {
         fireBullet2(tankSecondTop, tankSecondLeft, tank2.style.transform);
     }
 
